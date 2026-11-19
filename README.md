@@ -1,32 +1,20 @@
-\# Employee Data Analysis
+\# Employee Salary Analysis
 
 
 
-\## Project Description
-
-This project analyzes employee salary and city details using Python, Pandas and Matplotlib.
+This project analyzes employee data using Python.
 
 
 
-\## Setup
+Libraries Used:
 
-1\. Install Python.
+\- NumPy
 
-2\. Install pandas and matplotlib.
+\- Pandas
 
-3\. Run the employee analysis notebook.
+\- Matplotlib
 
 
 
-\## Findings
-
-1\. Total employees: 5
-
-2\. Average salary: 54000
-
-3\. Maximum salary: 70000
-
-4\. Minimum salary: 40000
-
-5\. Chennai has the highest number of employees.
+Project Status: Analysis Completed
 
