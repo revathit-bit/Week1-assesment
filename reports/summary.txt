@@ -1,0 +1,7 @@
+Employee Data Analysis Report
+
+Total Employees: 5
+Average Salary: 54000
+Maximum Salary: 70000
+Minimum Salary: 40000
+Chennai has the highest number of employees.
